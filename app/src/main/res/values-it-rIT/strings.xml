@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Mia App</string>
+    <string name="bienvenida">Benvenuto</string>
+    <string name="fondo">Sfondo</string>
+    <string name="title_activity_main2">Attività principale</string>
+    <string name="nav_header_title">Marcianito</string>
+    <string name="boton">Entra</string>
+</resources>

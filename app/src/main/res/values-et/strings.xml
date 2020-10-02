@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minu Rakendus</string>
+    <string name="bienvenida">Tere tulemast</string>
+    <string name="fondo">Tapeet</string>
+    <string name="title_activity_main2">Põhitegevus</string>
+    <string name="nav_header_title">Marcianito</string>
+    <string name="boton">Tule sisse</string>
+</resources>
